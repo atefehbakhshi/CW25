@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "D:/web/project/React/twelveweek/Ajax"
+		},
+		{
+			"path": "starter"
+		},
+		{
+			"path": "9"
+		},
+		{
+			"path": "12"
+		},
+		{
+			"path": "18"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Ajax"
+	}
+}
